@@ -2,7 +2,7 @@
 this is a new and improved version of the 24/7 in sandy that we all know and love.
 
 -Installastion-
-Drag and drop main files into and rename 247, file into reasources than in  server.cfg type "start 247" than restart/start your server than... BAM!!! go to 24/7 in sandy shores
+once you open up the Sandy 247 v1.0.1.zip, Drag and drop main files into and rename 247, file into reasources than in  server.cfg type "start 247" than restart/start your server than... BAM!!! go to 24/7 in sandy shores
 and it should be there all the update and everything.
 
 -Agreement-

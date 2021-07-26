@@ -1,4 +1,4 @@
-# FiveM---New-247.-v1.0.1
+#v1.0.1
 this is a new and improved version of the 24/7 in sandy that we all know and love.
 
 -Installastion-
